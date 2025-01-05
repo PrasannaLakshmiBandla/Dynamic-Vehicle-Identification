@@ -12,7 +12,6 @@ Dynamic Vehicle Identification and Tracker is a state-of-the-art system engineer
 
 ## 🌟 Project Structure
 
-
 vehiclerecognition-final/
 ├── .git/                 # Git version control
 ├── db.sqlite3            # SQLite database for storing vehicle data
