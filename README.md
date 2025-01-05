@@ -34,7 +34,7 @@ vehiclerecognition-final/
 1. *Clone the Repository:*
 
    bash
-   git clone https://github.com/pavankumarkasula73/Dynamic-Vehicle-Identification-and-Tracker.git
+   git clone https://github.com/PrasannaLakshmiBandla/Dynamic-Vehicle-Identification.git
    cd vehiclerecognition-final
    
 
@@ -87,7 +87,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 For queries or support, feel free to reach out:
 
 - *Email:* bandlaprasanna321@gmail.com
-- *GitHub:* 
+- *GitHub:* PrasannaLakshmiBandla
 
 ---
 
